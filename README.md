@@ -1,6 +1,6 @@
 # Savantè Modern Restaurant UI/UX Website  :fork_and_knife:
 
->Welcome to my website for Savantè, an exquisite online platform showcasing the art of fine dining. Explore the repository to discover the meticulously crafted code that powers the elegant design, immersive user experience, and seamless functionality of the Savantè website. All the components are in the src file.
+>Welcome to Savantè, an exquisite online platform showcasing the art of fine dining. Explore the repository to discover the meticulously crafted code that powers the elegant design, immersive user experience, and seamless functionality of the Savantè website. All the components are in the src file.
 
 ## [Live Website](https://savante-restaurant.co.uk/)
 
