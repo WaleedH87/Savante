@@ -1,70 +1,65 @@
-# Getting Started with Create React App
+# Savantè Modern Restaurant UI/UX Website  :fork_and_knife:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+>Welcome to MetaCore, a responsive modern website with animated design and animations that engage with the viewer. All the components are in the src file.
 
-## Available Scripts
+## [Live Website](https://savante-restaurant.co.uk/)
 
-In the project directory, you can run:
+![Preview](/preview.png)
 
-### `npm start`
+## Technologies Used:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+:zap: Figma for UI
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+:zap: React.js
 
-### `npm test`
+:zap: HTML5
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+:zap: CSS3
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Key Features
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+:green_circle:  Modern and Elegant UI/UX.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+:green_circle:  Responsive Web Application with fast load times (apart from First Contentful Print lol - still working on that :joy: )
 
-### `npm run eject`
+:green_circle:  Can be utilised by a fine-dining business that requires a website which appropriately displays a high-end experience.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Contributing  :open_hands:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Any and all contributions are welcome. Here are some ways you can get started:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Reporting Bugs
 
-## Learn More
+If you encounter any bugs or issues with the app, please let us know by opening up an issue on GitHub. Be sure to include as much detail as possible, including steps to reproduce the issue and any error messages you may have received.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Contributing Code
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+If you are a developer and want to contribute code, follow these instructions:
 
-### Code Splitting
+1. Fork the repository to your own GitHub account.
+2. Create a new branch for your changes.
+3. Make your changes and commit them to your branch.
+4. Push your changes to your forked repository.
+5. Open a pull request to have your changes reviewed and merged into the main project.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Suggestions
 
-### Analyzing the Bundle Size
+If you have suggestions for updates or improvements you would like to see, please open an issue on GitHub and explain your ideas. We welcome all suggestions and will consider them for future releases.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Documentation
 
-### Making a Progressive Web App
+If you see the need for additional documentation or have any suggestions for improving the current documentation, please feel free to make the changes and submit a pull request.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+>Thank you for your interest in contributing to Savantè! :pray:
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Licensing  :scroll:
 
-### Deployment
+The Savantè website is licensed under the [MIT License](https://opensource.org/license/mit/), which is a permissive open-source license. This means that you can use, modify, and distribute the app for both personal and commercial purposes as long as you include the original copyright and license notice.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+>By contributing to this project, you agree to license your contributions under the same MIT License.
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ 
